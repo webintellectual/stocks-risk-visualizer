@@ -38,7 +38,15 @@ This project is a Streamlit-based web application for analyzing the Value at Ris
 
 ## Screenshots
 
-> Pending to put
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/927e7530-cfcf-498d-a8aa-6203976d04be" />
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/610de9c5-049a-465d-a680-63ab0f82e6df" />
+
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/e442e66d-aef3-4e95-8c44-a725dd3010ae" />
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d4cc25e2-e6b8-4f44-9992-aeca64474527" />
+
+
 
 ---
 
