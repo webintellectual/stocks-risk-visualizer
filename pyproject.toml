@@ -1,0 +1,28 @@
+[project]
+name = "stocks-risk-visualizer"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Akshay",email = "78297310+webintellectual@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit (>=1.46.0,<2.0.0)",
+    "yfinance (>=0.2.63,<0.3.0)",
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "scipy (>=1.16.0,<2.0.0)",
+    "pandas (>=2.0.0,<3.0.0)",
+    "numpy (>=1.24.0,<2.0.0)",
+    "seaborn (>=0.12.0,<1.0.0)",
+    "streamlit-aggrid (>=1.1.6,<2.0.0)",
+    "plotly (>=6.2.0,<7.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "stocks_risk_visualizer", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
